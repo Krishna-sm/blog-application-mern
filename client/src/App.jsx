@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar"
 import HomePage from "./Pages/HomePage"
 import ShowBlogPage from "./Pages/ShowBlogPage"
 import CreateBlogPage from "./Pages/CreateBlogPage"
-
+ 
 const App = ()=>{
   return<>
         <BrowserRouter>
